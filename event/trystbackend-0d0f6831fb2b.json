@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trystbackend",
+  "private_key_id": "0d0f6831fb2be3a65cf0145f60eaac591ab62909",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm5UkWvRtks1Dm\n+BSu/w/f6+hCXxc+WT+0ghUWes0I01yPfoT8llomjm2QhcsrKXtuwPs6xtVWEwH2\nuwLOWJi5pLmTxjel3eu9WuAGQiU2YQA+Kp6P2c11ivmzCje7QTcXF3DCBzO87bH+\nPhZmDRLXJSrreNqmYJG155ZkczuAgsy2VaFpEu1EdxY0S27YJRzfk6SrLooZ9Vxc\nMBdSBMH7DRND0SfqT2hT72oFRsGyVtx9pse/ROABHslVUcjx7J+RsWMnX6YvSRmj\n6DsD+3jHhYmm349cBuFpODvSHR8H1upubyVmwIX1eTS0OTheEEfLougkXo6NJBYp\nM0r75mA/AgMBAAECggEACOni7+H2niJ0t+vtzRg2TYFRjL9DZ6agoCyG2nfWx4ty\nWP+cpcqxC7E8k+wcEfwSvuw6xeEWfuonMc70ekzW1f/dIXx1zNgOFu4+6h3EDM7K\ny2q/To/486mD2I90QTbrkTPvg8ZFXVoHQvWZDuAJp4/4ZjHRGfMQo2ubrqsUbkDN\nY7R7qld5KhXwD7GI+tocoPl3veDzmg4Cc+lYRd+EeBEG46Z1qEOwm42XFkd/vAHU\nLM4u0e7fIFj3NtzHmF/5DN6TF9z1FIb7HD48gdAzJeE6fA4TPzXETsAiIH0wAA+S\nPCogAvW/BnMA2A/yNLCueUu/xztNGI0ZGKabxBdOwQKBgQDRB5EPondEL63VIgcm\n1pAuHeR7OOwpudfPND/+q5sXjwFb1xh52L4pDwmIvmdOCaLEX3/uphwMxTg6jVtf\nc7JlEJuB5K9xIbFMgJTWKyirphg/M1apdJbIrHBXqgVgolr4BQiEP4UulnbrSsmb\n5Z7GA4JRHVmMkCrPYPTIJOdRMQKBgQDMZfbJzet7dX3lEv7AL0ECCMzNuuRHB04o\nyJzqoVMdNucszXlYGkcmt7G56/ngyOqPi/aBtslobZRAnfckety3+vYPNUJ6zLTv\n1GqxzQ2qBLaEIvoNpWB2zdi/EhZwsoWcrjjVBK31RTaj8azhpSvsnSu1rHoNv/ZY\nIE7UwJHsbwKBgQC9ey50DcIvfUkGuyHggv+PzmkfiioKaPzIR4T7RnQAlxGUPxdg\n3KkEby0lV/QtOW7is+80Vj93FBA0g48gp7A/DR7qUHL5CqG9x5Ej01u6vYWdRNx6\nH8XPgwETdnwJbSMpUOa3ex0vbhW+lLzNJQkYVnX7Ma/LS6SC+FDsXQeTAQKBgFB7\nMZJCd59UIu8o7JAlyxYO+v1iwnHJSZg7bbXhMcXGEX6NpWLwbeWr3NoVNX2x/tHo\nzXZDz8hDpWVQDbkae4Ah2/MfCH8rzW7FmAFMeT3hvzAGSalH3dTJtrd9WsKjOIL6\nAry1q/1wdFRXW7g5fjMbq9NMB38Uf94xUnjpHkwXAoGAarBwoVGw9kCMfzrGFPZO\nURrlpB41IVzHVjborW2/N+5j1izz95IDyAS6wp7YU0BCspXPkDbLCXcK6ekmOuWT\neKSvf2flA7nJ9pUE5oj40OUyy5sC/QUn1vbbSC7MpqxEI3tfA34oZt7aJpLvXzD9\nxrwGksCjwnFxsHvX8vHfolI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tryst-backend@trystbackend.iam.gserviceaccount.com",
+  "client_id": "105212779217855200814",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tryst-backend%40trystbackend.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
